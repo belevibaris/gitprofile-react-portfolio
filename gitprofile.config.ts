@@ -35,7 +35,7 @@ const CONFIG = {
         {
           title: '3D React Template',
           description:
-            '3D Interactive React template for starters to freely use',
+            '3D Interactive React template for starters to freely use | Made by Baris Belevi',
           imageUrl:
             'https://www.nicepng.com/png/detail/111-1116375_robotics-and-computer-science-black-and-white-robot.png',
           link: 'https://interactive-studios-50ab59.webflow.io',
@@ -89,7 +89,7 @@ const CONFIG = {
       name: 'IELTS Band 7 Certificate',
       body: '',
       year: 'September 2024',
-      link: 'https://example.com',
+      link: '/',
     },
   ],
   educations: [
