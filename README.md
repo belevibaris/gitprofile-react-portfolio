@@ -41,5 +41,4 @@ This project is deployed on Vercel. You can check out the live version here: bel
 License
 This project is licensed under the MIT License.
 
-
 Feel free to replace any placeholder links or paths based on your project.
