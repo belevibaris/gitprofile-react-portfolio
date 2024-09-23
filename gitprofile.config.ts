@@ -25,7 +25,7 @@ const CONFIG = {
       },
       manual: {
         // Properties for manually specifying projects
-        projects: ['belevibaris/gitprofile-portfolio', 'arifszn/pandora'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
+        projects: ['belevibaris/gitprofile-portfolio'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
       },
     },
     external: {
@@ -53,7 +53,7 @@ const CONFIG = {
     twitter: '@belevibaris',
     website: 'https://www.belevibaris.com.tr',
     phone: '+90 0533 886 21 12',
-    email: 'belevibarisofficial@gmail.com',
+    email: 'belevibaris@icloud.com',
   },
   resume: {
     fileUrl:
