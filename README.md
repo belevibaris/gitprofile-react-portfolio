@@ -45,7 +45,8 @@ This project is deployed on Vercel. You can check out the live version here: bel
 
 <br>
 
-License
+License<br>
+
 This project is licensed under the MIT License.
 <br>
 
