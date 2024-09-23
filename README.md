@@ -19,26 +19,17 @@ To run the project locally:
    ```bash
    git clone https://github.com/belevibaris/gitprofile-react-portfolio
    
-Navigate to the project directory:
-Copy code
-cd gitprofile-react-portfolio
-
-Install dependencies:
-Copy code
-npm install
-
-Start the development server:
-Copy code
-npm start
-
-## Features
-
-- Responsive design
-- Interactive UI with React
-- Navbar with dropdowns and transparent styling
-- Spline background animation
-- Login and signup functionality
-- Profile PDF (`belevibaris.pdf`) hosted in the public folder
+2. Navigate to the project directory:
+   ```bash
+   cd gitprofile-react-portfolio
+   
+3. Install dependencies:
+   ```bash
+   npm install
+    
+4. Start the development server:
+   ```bash
+   npm start
 
 This project is deployed on Vercel. You can check out the live version here: belevibaris Portfolio
 
