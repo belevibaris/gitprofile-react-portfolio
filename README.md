@@ -18,7 +18,7 @@ To run the project locally:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/belevibaris/your-repo-name.git
+   git clone https://github.com/belevibaris/gitprofile-react-portfolio
 Navigate to the project directory:
 
 bash
@@ -53,36 +53,9 @@ This project is a web-based portfolio for showcasing my skills, projects, and ex
 - Login and signup functionality
 - Profile PDF (`belevibaris.pdf`) hosted in the public folder
 
-## Installation
-
-To run the project locally:
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/belevibaris/your-repo-name.git
-Navigate to the project directory:
-
-bash
-Copy code
-cd your-repo-name
-Install dependencies:
-
-bash
-Copy code
-npm install
-Start the development server:
-
-bash
-Copy code
-npm start
-Deployment
 This project is deployed on Vercel. You can check out the live version here: belevibaris Portfolio
 
 License
 This project is licensed under the MIT License.
-
-sql
-Copy code
 
 Feel free to replace any placeholder links or paths based on your project.
