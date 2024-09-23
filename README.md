@@ -41,7 +41,7 @@ To run the project locally:
    
 <br>
 
-This project is deployed on Vercel. You can check out the live version here: <a href="http://www.belevibaris.com.tr">Barış Belevi</a>
+This project is deployed on Vercel. You can check out the live version here: <a href="http://www.barisbelevi.com.tr">Barış Belevi</a>
 
 <br>
 
