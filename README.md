@@ -40,7 +40,7 @@ Here’s an updated version of the README code with your profile name, "beleviba
 
 markdown
 Copy code
-# belevibaris
+# Barış Belevi
 
 This project is a web-based portfolio for showcasing my skills, projects, and experience as a web software developer.
 
